@@ -5,7 +5,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- 🔭 I’m currently working on **Doc_Scanner**
+- 🔭 I’m currently working on **my research - Gamification for project management**
 
 - 💬 Ask me about **latest tech**
 
